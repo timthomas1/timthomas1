@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @timthomas1
 - 👀 I’m interested in: Cyber, Cloud, & Coding
 - 🌱 I’m currently learning: Python
-- 🗒 My upcoming project is: Learn to Code with Fantasy Football
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/timothythomas1/
 
 <!---
