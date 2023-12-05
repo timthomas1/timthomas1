@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timthomas1
 - 👀 I’m interested in: Cyber, Cloud, & Coding
-- 🌱 I’m currently learning: Python
+- 🌱 I’m currently learning: AWS, Python
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/timothythomas1/
 
 <!---
